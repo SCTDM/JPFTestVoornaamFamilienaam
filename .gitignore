@@ -1,0 +1,5 @@
+/nbproject/private/
+*.log
+*.tmp
+*.temp
+/build/
